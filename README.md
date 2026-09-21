@@ -6,7 +6,7 @@
 ## Запуск проекта
 Вы можете запустить и протестировать весь программный конвейер прямо в браузере. Данные датасета и необходимые веса скачиваются автоматически:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MuhachevaPolina/engineering_drawings_recognition/blob/main/engineering_drawings_recognition_script.ipynb)
 
 ## Стек технологий
 * **YOLOv8s** — детекция графических объектов (стрелки, рамки, знаки радиуса/диаметра).
