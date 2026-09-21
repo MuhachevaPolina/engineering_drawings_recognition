@@ -8,6 +8,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhachevaPolina/engineering_drawings_recognition/blob/main/engineering_drawings_recognition_script.ipynb)
 
+При возникновении ошибок совместимости библиотек необходимо нажать в верхнем меню Среда выполнения -> Перезапустить сеанс.
+
 ## Стек технологий
 * **YOLOv8s** — детекция графических объектов (стрелки, рамки, знаки радиуса/диаметра).
 * **PaddleOCR v2.9.1** — оптическое распознавание технических шрифтов (OCR).
